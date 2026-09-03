@@ -3,7 +3,7 @@ Sadreddin Saleh
 PhD Researcher in Electrical Engineering
 University of Tehran
 
-Researcher working at the intersection of Artificial Intelligence, Scientific Machine Learning, and complex engineering systems.
+I am a researcher working at the intersection of Artificial Intelligence, Scientific Machine Learning, and complex engineering systems.
 
 Research Interests
 
@@ -31,11 +31,11 @@ Research Focus
 
 My research focuses on developing machine learning methods for complex physical and engineering systems, with an emphasis on combining data-driven learning, physical knowledge, mathematical modeling, and reliable evaluation.
 
-Current research activities include scientific machine learning for battery degradation analysis, State of Health estimation, Remaining Useful Life prediction, and physics-informed temporal modeling.
+My current research activities include scientific machine learning for battery degradation analysis, State of Health estimation, Remaining Useful Life prediction, temporal modeling, and physics-informed learning.
 
 Current Focus
 
-Developing reproducible and scientifically grounded machine learning methodologies for complex engineering systems.
+I am developing reproducible and scientifically grounded machine learning methodologies for complex engineering systems.
 
 Programming and Tools
 
