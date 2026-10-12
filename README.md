@@ -1,58 +1,73 @@
 # Sadreddin Saleh
 
-PhD Researcher in Electrical Engineering
-University of Tehran
+PhD Researcher in Electrical Engineering | Scientific Machine Learning | Reliable AI
 
-I am a researcher working at the intersection of Artificial Intelligence, Scientific Machine Learning, and complex engineering systems.
+I am a researcher working at the intersection of Artificial Intelligence, Scientific Machine Learning, and complex engineering systems. My work focuses on developing reproducible, data-driven, and scientifically grounded methods for predictive modeling, time-series analysis, and prognostics.
 
 ## Research Interests
 
-* Artificial Intelligence and Machine Learning
-* Scientific Machine Learning
-* Deep Learning and Time-Series Modeling
-* Physics-Informed Machine Learning
-* Mathematical Modeling of Engineering Systems
-* Battery Health and Remaining Useful Life Prediction
-* Nanoelectronics and Semiconductor Devices
-* Bioelectronics and Intelligent Sensing Systems
+- Scientific Machine Learning and Reliable AI
+- Machine Learning and Deep Learning
+- Time-Series Modeling and Predictive Analytics
+- Remaining Useful Life (RUL) Prediction
+- Battery Degradation and Health Prognostics
+- Physics-Informed Machine Learning
+- Mathematical Modeling and System Identification
+- Nanoelectronics and Semiconductor Devices
+- Bioelectronics and Intelligent Sensing Systems
 
 ## Research Focus
 
-My research focuses on developing data-driven and physics-informed computational methods for modeling, analysis, prediction, and prognostics of complex physical systems.
+My research explores computational methods for modeling, analyzing, and predicting the behavior of complex physical and engineering systems. I am particularly interested in combining data-driven learning, mathematical modeling, and physical knowledge to improve predictive performance, reliability, and scientific interpretability.
 
-My current research activities include scientific machine learning for battery degradation analysis, State of Health estimation, Remaining Useful Life prediction, temporal modeling, and physics-informed learning.
+Current research directions include battery degradation analysis, Remaining Useful Life prediction, temporal representation learning, and reproducible machine learning evaluation.
+
+## Selected Project
+
+[Time-Series RUL Benchmark](https://github.com/sadra-github/time-series-rul-benchmark)
+
+A reproducible benchmark for Remaining Useful Life prediction using multivariate time-series data. The project emphasizes transparent experimental protocols, leakage prevention, systematic model evaluation, and reproducibility.
 
 ## Technical Skills
 
-* Python
-* Machine Learning
-* Deep Learning
-* Scientific Computing
-* Data Analysis
-* Signal Processing
-* Mathematical Modeling
-* C/C++
+Programming: Python, MATLAB, C/C++, SQL, Bash
 
-## Programming and Tools
+Machine Learning: Scikit-learn, PyTorch, TensorFlow, statistical learning, feature engineering, predictive modeling, uncertainty quantification
 
-Python, C/C++, NumPy, Pandas, SciPy, Scikit-learn, PyTorch, Matplotlib, Jupyter, Git, and LaTeX.
+Scientific Computing: NumPy, Pandas, SciPy, JupyterLab, Matplotlib
 
-## Research Areas
+Research Methods: Time-series analysis, mathematical modeling, system identification, optimization, model validation, and reproducible experimentation
 
-Artificial Intelligence
-Scientific Machine Learning
-Battery Intelligence
-Nanoelectronics
-Bioelectronics
-Computational Engineering
+## Engineering Applications
 
-## Current Focus
+- Electrochemical energy systems and battery prognostics
+- Intelligent sensing and bioelectronics
+- Semiconductor technology and nanoelectronics
+- Smart grids and renewable energy systems
+- Industrial IoT and predictive analytics
 
-I am developing reproducible and scientifically grounded machine learning methodologies for complex engineering systems, with an emphasis on integrating data-driven learning with physical knowledge and mathematical modeling.
+## Academic and Professional Background
 
-## Academic Background
+My background combines electrical engineering, computational research, scientific machine learning, and applied engineering. I also have experience in engineering education, programming, mathematical methods, and research-oriented problem solving.
 
-PhD Researcher in Electrical Engineering
-University of Tehran
+I am interested in interdisciplinary collaboration on reliable AI, predictive modeling, and computational methods for complex engineering systems.
 
-Research areas: Scientific Machine Learning, Artificial Intelligence, Nanoelectronics, and Engineering Systems.
+## Professional Activities
+
+Founder and Director, iotnanoai
+
+Applied research and engineering consulting involving artificial intelligence, IoT, nanotechnology, smart grids, renewable energy, and industrial systems.
+
+Website: [iotnanoai.com](https://iotnanoai.com)
+
+## Publications
+
+My research interests include artificial intelligence applications in energy systems, renewable energy integration, load forecasting, and intelligent engineering optimization. Verified publication titles, journal links, and DOIs can be added here to support academic discovery and citation.
+
+## Contact
+
+- Website: [iotnanoai.com](https://iotnanoai.com)
+- Email: iotnanoai\@gmail.com
+- Professional inquiries: info\@iotnanoai.com
+
+Research philosophy: reproducibility, methodological transparency, rigorous evaluation, and scientifically grounded machine learning.
