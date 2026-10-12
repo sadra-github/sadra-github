@@ -62,12 +62,34 @@ Website: [iotnanoai.com](https://iotnanoai.com)
 
 ## Publications
 
-My research interests include artificial intelligence applications in energy systems, renewable energy integration, load forecasting, and intelligent engineering optimization. Verified publication titles, journal links, and DOIs can be added here to support academic discovery and citation.
+My research interests include artificial intelligence applications in energy systems, renewable energy integration, load forecasting, and intelligent 
+engineering optimization. Verified publication titles, journal links, and DOIs can be added here to support academic discovery and citation.
 
 ## Contact
 
+- sadreddin.saleh@ut.ac.ir
 - Website: [iotnanoai.com](https://iotnanoai.com)
 - Email: iotnanoai\@gmail.com
 - Professional inquiries: info\@iotnanoai.com
 
 Research philosophy: reproducibility, methodological transparency, rigorous evaluation, and scientifically grounded machine learning.
+
+
+
+
+## Selected Publications
+
+My publications cover artificial intelligence, optimization, renewable energy integration, and intelligent decision-making in electrical power systems. These works reflect my interest in applying computational intelligence and mathematical optimization to complex engineering problems.
+
+1. **A Hybrid Artificial-Based Model for Accurate Short Term Electric Load Prediction.** *Journal of Intelligent & Fuzzy Systems*, 27(6), 3103–3110, 2014. [Google Scholar](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cites=17324232713260034950)
+2. **A New Modified Bat Algorithm to Solve Optimal Management of Multi-Objective Reconfiguration Problem.** *Journal of Intelligent & Fuzzy Systems*, 27(3), 1567–1573, 2014. [Google Scholar](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cites=14650373237865117546)
+3. **Optimal Unit Commitment of Renewable Energy Sources in the Micro-Grids with Storage Devices.** *Journal of Intelligent & Fuzzy Systems*, 28(2), 537–546, 2015. [Google Scholar](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cites=13347747737434364132)
+4. **Stochastic Reactive Power Planning in Distribution Systems Considering Wind Turbines Electric Power Variations.** *Journal of Intelligent & Fuzzy Systems*, 28(3), 1081–1087, 2015. [Google Scholar](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cites=11891933895921625025)
+5. **A New Intelligent Method for Optimal Coordination of Vehicle-to-Grid Plug-in Electric Vehicles in Power Systems.** *Journal of Intelligent & Fuzzy Systems*, 28(3), 1291–1298, 2015. [Google Scholar](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cites=911009287452245424)
+6. **Energy, Economic and Environmental Impacts of Cryptocurrency Mining: A Review of Sustainable Integration Pathways in Power Systems.** *Energy Conversion and Management: X*, article 101413, 2026. [Google Scholar](https://scholar.google.com/scholar?oi=bibs\&hl=en\&cites=9841522023949940235)
+
+### Research Profile
+
+My Google Scholar profile lists 36 citations, an h-index of 4, and an i10-index of 0. These metrics reflect the profile information provided and may change over time.
+
+**Google Scholar:** [Sadreddin Saleh](https://scholar.google.com/citations?user=UASDEHYAAAAJ\&hl=en)
